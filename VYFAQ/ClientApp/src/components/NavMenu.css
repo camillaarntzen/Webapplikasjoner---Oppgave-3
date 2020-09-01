@@ -1,0 +1,38 @@
+﻿/***For styling av navbar**/
+a.navbar-brand {
+    white-space: normal;
+    text-align: center;
+    word-break: break-all;
+}
+
+#camilla {
+}
+
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+.box-shadow {
+    box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+#vyLogo {
+    width: 60px;
+}
+
+#navBtn {
+    background-color: #393E42;
+    color: white;
+    padding: 10px;
+    font-size: 17px;
+    border: none;
+    cursor: pointer;
+    border-radius: 2px;
+}
+
+    #navBtn:hover {
+        background-color: #00866E;
+    }
